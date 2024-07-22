@@ -1,0 +1,12 @@
+Name,Age,Profession,LinkedIn Profile,Interests,Education,Work Experience,Location,Current CTC
+John Doe,30.0,Software Engineer,https://linkedin.com/in/johndoe,"Reading, Cycling",B.Tech in Computer Science,5 years at Google,"San Francisco, CA","$120,000"
+Jane Smith,,Product Manager,https://linkedin.com/in/janesmith,Painting; Gardening,MBA,3 years at Facebook,"New York, NY","$110,000"
+Alice Johnson,35.0,Data Scientist,https://linkedin.com/in/alicejohnson,"Photography, Yoga",M.Sc. in Data Science,6 years at Microsoft,"Seattle, WA","$130,000"
+Bob Brown,32.0,Marketing Manager,,"Hiking, Cooking",BBA in Marketing,4 years at Amazon,"Los Angeles, CA","$95,000"
+Charlie Davis,29.0,UX Designer,https://linkedin.com/in/charliedavis,"Running, Traveling",B.Des in Design,5 years at Apple," Austin, TX ","$105,000"
+Emily Wilson,31.0,Financial Analyst,https://linkedin.com/in/emilywilson,"Swimming, Knitting",M.Sc. in Finance,4 years at Goldman Sachs,"Chicago, IL","$115,000"
+Frank Thompson,34.0,HR Manager,https://linkedin.com/in/frankthompson,"Gaming, Fishing",MBA in HR,7 years at Netflix,"San Diego, CA","$125,000"
+Grace Lee,27.0,Content Writer,https://linkedin.com/in/gracelee,"Dancing, Writing",B.A. in English,2 years at Medium,"Boston, MA","$80,000"
+Henry Kim,33.0,Project Manager,https://linkedin.com/in/henrykim,"Singing, Chess",M.Sc. in Project Management,6 years at Tesla,"Denver, CO","$118,000"
+Isabella Martinez,26.0,Research Scientist,https://linkedin.com/in/isabellamartinez,"Running, Reading",Ph.D. in Biochemistry,2 years at Genentech,"San Jose, CA","$110,000"
+John Doe,,Software Engineer,,,B.Tech in Computer Science,5 years at Google,"San Francisco, CA","$120,000"
